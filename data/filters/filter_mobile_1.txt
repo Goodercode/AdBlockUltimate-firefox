@@ -15,6 +15,7 @@
 .ecommtools.com^$third-party
 .gameleads.ru^
 .marketgid.com^$third-party
+.marketgid.com
 .piccash.net^
 .tovarro.com^$third-party
 .tpm.pw^$third-party
@@ -820,6 +821,7 @@ thr.ru##.top_branding
 ||manfys.com^$third-party
 ||manuelu.com^$third-party
 ||marketgid.com^$third-party
+||marketgid.com
 ||mastertarget.ru^$third-party
 ||masudel.com^$third-party
 ||mateast.com^$third-party
@@ -999,6 +1001,7 @@ thr.ru##.top_branding
 ||ozon.ru/?partner=$third-party
 ||ozon.ru/PartnerTwinerNew.aspx$third-party
 ||oztumte.ru^$third-party
+||show.octobird.com
 ||p2p.bz^$third-party
 ||pabhaco.ru^$third-party
 ||palandan.com^$third-party
